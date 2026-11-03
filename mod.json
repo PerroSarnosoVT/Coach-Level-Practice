@@ -1,0 +1,13 @@
+{
+	"geode": "6.0.0-alpha.1",
+	"gd": {
+		"win": "2.2091",
+		"android": "2.2091"
+	},
+	"version": "v1.0.0",
+	"id": "perrosarnosovt.coach",
+	"name": "Coach",
+	"developer": "PerroSarnosoVT",
+	"description": "Adaptive trainer: death heatmap, auto-detected hard sections, practice loops with adaptive speed, stats and in-game HUD.",
+	"tags": ["gameplay", "utility"]
+}
